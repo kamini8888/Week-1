@@ -38,4 +38,46 @@ This repository contains the work completed for **Week 1** of the **AICTE Intern
 3. Run each cell to see the output of the dataset reading and info printing.
 
 ---
+# Week 2
+Machine Learning Model Implementation and Evaluation for Week 2 of AICTE Internship
 
+## Week 2 - Machine Learning Model Implementation and Evaluation
+
+### Description:
+This repository contains the work completed for **Week 2** of the **AICTE Internship Program**. In this week, we learned how to implement machine learning models using **scikit-learn**. We explored **model training**, **evaluation metrics**, and **cross-validation**. Additionally, we worked on applying regression and classification algorithms to real-world datasets.
+
+### **Tasks Completed:**
+1. **Implementation of Machine Learning Models:**
+   - Implemented regression models such as **Linear Regression**.
+   - Implemented classification models such as **Logistic Regression** and **K-Nearest Neighbors (KNN)**.
+   - Trained the models on a dataset and made predictions.
+
+2. **Model Evaluation:**
+   - Evaluated the models using performance metrics like **accuracy**, **precision**, **recall**, **F1-score**, and **R² score**.
+   - Used **confusion matrix** for classification tasks.
+   
+3. **Cross-Validation:**
+   - Performed **k-fold cross-validation** to improve model accuracy and reduce overfitting.
+
+4. **Hyperparameter Tuning:**
+   - Introduced **GridSearchCV** for hyperparameter optimization to find the best parameters for the models.
+
+5. **Visualization:**
+   - Visualized the model performance and results using **matplotlib** and **seaborn**.
+
+### **Files in this Repository:**
+- **week2_colab.ipynb**: A Google Colab notebook where the following tasks are implemented:
+  - Data loading and preprocessing.
+  - Model training (Linear Regression, Logistic Regression, KNN).
+  - Model evaluation with performance metrics.
+  - Hyperparameter tuning and cross-validation.
+
+### **How to Run the Colab Notebook:**
+1. Open the `week2_colab.ipynb` file in Google Colab.
+2. Upload your dataset when prompted (ensure your dataset is in a CSV format).
+3. Run each cell to:
+   - Train the models.
+   - Evaluate their performance using various metrics.
+   - Visualize the results.
+
+---
