@@ -22,7 +22,7 @@ This project is part of the internship titled **"Crop and Fertiliser Recommendat
 
 ## How to Use
 
-1. Open the notebook `Week3_colab.ipynb` in Google Colab or Jupyter Notebook.
+1. Open the notebook `Week3_Crop_Recommendation.ipynb` in Google Colab or Jupyter Notebook.
 2. Load the dataset and preprocess it.
 3. Train and evaluate the model or load the saved model (`crop_model.sav`) and scaler (`scaler.sav`).
 4. Use the prediction function to recommend crops based on input parameters.
@@ -31,7 +31,7 @@ This project is part of the internship titled **"Crop and Fertiliser Recommendat
 
 | Filename                            | Description                                    |
 |-------------------------------------|------------------------------------------------|
-| `Week3_Crop_Recommendation_.ipynb   | Colab notebook with full project implementation|
+| `Week3_Crop_Recommendation.ipynb   | Colab notebook with full project implementation|
 | `crop_model.sav`                    | Saved trained crop recommendation model        |
 | `scaler.sav`                        | Saved scaler for feature normalization         |
 | `Crop_Recommendation.csv`           | Dataset used for training and testing          |
